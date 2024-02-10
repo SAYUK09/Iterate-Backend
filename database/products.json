@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "icon": "https://picsum.photos/id/237/200/300",
+      "title": "Wireless Noise Cancelling Headphones",
+      "description": "Immerse yourself in rich, clear audio with active noise cancellation technology. Perfect for travel, work, or everyday use.",
+      "category": ["Electronics", "Audio"]
+    },
+    {
+      "id": 2,
+      "icon": "https://picsum.photos/id/349/200/300",
+      "title": "Smart Water Bottle",
+      "description": "Track your water intake and stay hydrated with this smart water bottle with built-in temperature sensor and reminders.",
+      "category": ["Electronics", "Health and Fitness"]
+    },
+    {
+      "id": 3,
+      "icon": "https://picsum.photos/id/234/200/300",
+      "title": "Minimalist Backpack",
+      "description": "Carry your essentials in style with this sleek and functional minimalist backpack. Made from durable, water-resistant materials.",
+      "category": ["Fashion", "Accessories"]
+    },
+    {
+      "id": 4,
+      "icon": "https://picsum.photos/id/870/200/300",
+      "title": "Organic Coffee Beans",
+      "description": "Start your day with a delicious cup of freshly brewed coffee made with these ethically sourced and roasted organic coffee beans.",
+      "category": ["food and beverages", "Sustainable", "Food and Drink", "Food", "Organic"]
+    },
+    {
+      "id": 5,
+      "icon": "https://picsum.photos/id/1004/200/300",
+      "title": "Indoor Plant Kit",
+      "description": "Bring life and greenery to your home with this easy-to-care-for indoor plant kit. Includes everything you need to get started!",
+      "category": ["Home and Garden", "Hobbies"]
+    },
+    {
+      "id": 6,
+      "icon": "https://picsum.photos/id/848/200/300",
+      "title": "Wireless Charging Pad",
+      "description": "Never worry about tangled cords again with this convenient wireless charging pad. Simply place your phone down and watch it charge.",
+      "category": ["Electronics", "Accessories"]
+    },
+    {
+      "id": 7,
+      "icon": "https://picsum.photos/id/976/200/300",
+      "title": "Travel Journal",
+      "description": "Capture your memories and adventures in this beautiful and durable travel journal. Perfect for documenting your journeys near and far.",
+      "category": ["Stationery", "Travel"]
+    },
+    {
+      "id": 8,
+      "icon": "https://picsum.photos/id/1026/200/300",
+      "title": "Air Purifier",
+      "description": "Breathe easy with this air purifier that removes dust, allergens, and other pollutants from your home.",
+      "category": ["Home and Appliances", "Health and Wellness"]
+    },
+    {
+      "id": 9,
+      "icon": "https://picsum.photos/id/936/200/300",
+      "title": "Board Game",
+      "description": "Gather your friends and family for a fun and engaging night of game play with this exciting board game.",
+      "category": ["Toys and Games", "Family Fun"]
+    },
+    {
+      "id": 10,
+      "icon": "https://picsum.photos/id/1076/200/300",
+      "title": "Comfortable Sneakers",
+      "description": "Walk in style and comfort with these supportive and stylish sneakers. Perfect for everyday wear or your next workout.",
+      "category": ["Fashion", "Shoes"]
+    },
+    {
+      "id": 11,
+      "icon": "https://picsum.photos/id/922/200/300",
+      "title": "Reusable Grocery Bags",
+      "description": "Do your part for the environment and reduce your plastic waste with these reusable grocery bags.",
+      "category": ["Home and Living"]
+    },
+    {
+      "id": 12,
+      "icon": "https://picsum.photos/id/1052/200/300",
+      "title": "Interactive Mirror Gym",
+      "description": "Projects personalized workouts onto a mirror, guiding you through exercises with visual cues and real-time feedback. Connects to fitness trackers for seamless data integration.",
+      "category": ["Technology", "Fitness"]
+    },
+    {
+      "id": 13,
+      "icon": "https://picsum.photos/id/596/200/300",
+      "title": "Air Quality Monitoring Workout Gear",
+      "description": "Clothing with built-in sensors that track air quality and adjust ventilation based on your workout intensity and environment. Helps optimize performance and prevent respiratory issues.",
+      "category": ["Technology", "Health and Fitness"]
+    },
+    {
+      "id": 14,
+      "icon": "<invalid URL removed>",
+      "title": "AI-powered Nutrition Scanner",
+      "description": "Scans food using your smartphone camera and analyzes its nutritional content in real-time. Provides personalized dietary insights and suggestions based on your health goals and allergies.",
+      "category": ["Technology", "Health"]
+    },
+    {
+      "id": 15,
+      "icon": "<invalid URL removed>",
+      "title": "Smart Stress Relief Lamp",
+      "description": "Utilizes biofeedback sensors to detect stress levels and adjusts light therapy and calming sounds to promote relaxation and well-being.",
+      "category": ["Technology", "Health"]
+    },
+    {
+      "id": 16,
+      "icon": "<invalid URL removed>",
+      "title": "Personalized Sleep Therapy Headset",
+      "description": "Combines gentle audio cues with biofeedback to guide users into deeper sleep and address sleep disturbances. Provides personalized sleep reports and recommendations.",
+      "category": ["Technology", "Health"]
+    },
+    {
+      "id": 17,
+      "icon": "https://picsum.photos/id/890/200/300",
+      "title": "Habit Tracker with AI Coaching",
+      "description": "Tracks your progress towards forming new habits and breaking old ones. Offers personalized coaching and motivational nudges based on your behavioral patterns and goals.",
+      "category": ["Apps", "Health and Fitness"]
+    },
+    {
+      "id": 18,
+      "icon": "https://picsum.photos/id/595/200/300",
+      "title": "AR Grocery Shopping Assistant",
+      "description": "Overlays nutritional information and personalized recommendations onto real-time grocery store views through your smartphone camera. Helps make informed and healthy choices.",
+      "category": ["Apps", "Health and Fitness"]
+    },
+    {
+      "id": 19,
+      "icon": "https://picsum.photos/id/548/200/300",
+      "title": "Mindfulness Meditation App with Gamification",
+      "description": "Combines guided meditations with gamified elements like badges and progress tracking to make mindfulness practice more engaging and sustainable.",
+      "category": ["Apps", "Health and Wellness"]
+    },
+    {
+      "id": 20,
+      "icon": "https://picsum.photos/id/776/200/300",
+      "title": "Smart Yoga Mat",
+      "description": "Tracks your poses, alignment, and progress in real-time through integrated sensors and an accompanying app. Offers personalized feedback and guided sessions.",
+      "category": ["Technology", "Fitness"]
+    }
+  ]
+  
